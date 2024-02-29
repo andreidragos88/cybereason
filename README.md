@@ -73,6 +73,7 @@ at compile time
 ● There is no need to deploy the application, everything can work locally
 
 ● Do not use Webpack 5 Module Federation
+
 Bonus
 
 ● Do not use any framework for the Micro FrontEnd architecture (like
