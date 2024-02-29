@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 25px;
+}
+
+#list > div {
+  padding: 5px;
+}
