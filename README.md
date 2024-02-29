@@ -4,6 +4,7 @@ several sub-applications to be loaded into the main application at runtime.
 Each application should be in a separate project and should have its own
 package.json, dependencies and a dedicated build process for creating its
 bundle file.
+
 Main application description
 ● Create a single page to cover 100% of the screen dimension and
 divide it into 4 equal sections
